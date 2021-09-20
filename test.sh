@@ -3,3 +3,4 @@ date
 cal
 echo "hiii"
 echo "github "
+echo "bye"
